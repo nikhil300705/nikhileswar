@@ -1,57 +1,53 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=800&color=00FFA6&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Nikhileswar;Full+Stack+Developer;Technology+Enthusiast;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=800&color=00FFA6&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Nikhil+Appari;Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" />
 </p>
 
 ---
 
 ## 👋 About Me
-- 🚀 Full Stack Developer and problem solver  
-- 💡 Always curious about building scalable applications  
-- 📚 Passionate about learning new technologies  
+🚀 Full Stack Developer and problem solver  
+💡 Passionate about building scalable and reliable applications  
+📚 Always curious to learn new technologies  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" />
+</p>
 
-### 🎨 Frontend Development
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
 ### ⚙️ Backend Development
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### ☁️ Cloud & Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Azure](https://skillicons.dev/icons?i=azure)
-![Vercel](https://skillicons.dev/icons?i=vercel)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,azure,vercel" />
+</p>
 
 ### 🔧 DevOps & Tools
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhil300705&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil300705&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil300705&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil300705&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -59,7 +55,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhil300705&theme=darkhub&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhil300705&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -72,8 +68,5 @@
 
 ---
 
-## 📫 Connect with Me
-- 💼 LinkedIn: *(https://www.linkedin.com/in/appari-nikhil-eswar-791229339/)*
-- 📧 Email: *(nikhilappari870@gmail.com)*
+⭐️ _“Consistency beats talent when talent doesn’t stay consistent.”_
 
-⭐ If you like my profile, feel free to star my repositories!
