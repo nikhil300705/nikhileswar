@@ -73,7 +73,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(add your email)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/appari-nikhil-eswar-791229339/)*
+- 📧 Email: *(nikhilappari870@gmail.com)*
 
 ⭐ If you like my profile, feel free to star my repositories!
